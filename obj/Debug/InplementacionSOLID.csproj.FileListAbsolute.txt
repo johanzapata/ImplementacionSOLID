@@ -1,0 +1,7 @@
+C:\Users\jzapatam\source\repos\InplementacionSOLID\InplementacionSOLID\obj\Debug\InplementacionSOLID.csprojAssemblyReference.cache
+C:\Users\jzapatam\source\repos\InplementacionSOLID\InplementacionSOLID\obj\Debug\InplementacionSOLID.csproj.CoreCompileInputs.cache
+C:\Users\jzapatam\source\repos\InplementacionSOLID\InplementacionSOLID\bin\Debug\InplementacionSOLID.exe.config
+C:\Users\jzapatam\source\repos\InplementacionSOLID\InplementacionSOLID\bin\Debug\InplementacionSOLID.exe
+C:\Users\jzapatam\source\repos\InplementacionSOLID\InplementacionSOLID\bin\Debug\InplementacionSOLID.pdb
+C:\Users\jzapatam\source\repos\InplementacionSOLID\InplementacionSOLID\obj\Debug\InplementacionSOLID.exe
+C:\Users\jzapatam\source\repos\InplementacionSOLID\InplementacionSOLID\obj\Debug\InplementacionSOLID.pdb
